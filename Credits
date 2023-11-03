@@ -1,0 +1,5 @@
+This project is based on the "VBA Curve Tracer" project, developed by Paul Versteeg. See links below:
+  https://github.com/paulvee/VBA-Curve-Tracer
+  https://www.paulvdiyblogs.net/2022/06/the-vba-curve-tracer.html
+
+I decided to start with a good and robust design - like Paul's project is - for adding the upgrades that I need for my personal use, and for who should like them.
